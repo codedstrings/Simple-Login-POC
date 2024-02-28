@@ -1,0 +1,17 @@
+﻿@model Simple_Login_POC.Models.User;
+
+<div class="login-container">
+    <form method="GET" action="ValidateUser">
+        <label for="email">Email: </label>
+        <input type="email" name="email-in" placeholder="yourname@email.com"required/>
+        <br /><br />
+        <label for="password">Password: </label>
+        <input type="password" name="password-in" required/>
+        <br /><br />
+        <label for="otp">OTP</label>
+        <input type="number" name="otp-in" placeholder="Enter 4 dgit otp" required/>
+        <br /><br />
+        <input type="submit" value="Log-In"/>
+    </form>
+</div>
+
