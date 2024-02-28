@@ -134,3 +134,4 @@ C:\Users\SMM-LP111\Desktop\c#\Moshly\Simple Login POC\Simple Login POC\bin\Debug
 C:\Users\SMM-LP111\Desktop\c#\Moshly\Simple Login POC\Simple Login POC\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\SMM-LP111\Desktop\c#\Moshly\Simple Login POC\Simple Login POC\obj\Debug\net8.0\Simple Login POC.csproj.AssemblyReference.cache
 C:\Users\SMM-LP111\Desktop\c#\Moshly\Simple Login POC\Simple Login POC\obj\Debug\net8.0\Simple Login POC.csproj.CopyComplete
+C:\Users\SMM-LP111\Desktop\c#\Moshly\Simple Login POC\Simple Login POC\obj\Debug\net8.0\Simple Login POC.sourcelink.json
