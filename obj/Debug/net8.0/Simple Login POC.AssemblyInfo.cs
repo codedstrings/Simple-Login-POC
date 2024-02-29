@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Simple Login POC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b0960a83a2b5f66fc7376f26be0696bfd002559")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f4c605a6e5f5d6e05948bd273c1e0d91b3f63d66")]
 [assembly: System.Reflection.AssemblyProductAttribute("Simple Login POC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Simple Login POC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

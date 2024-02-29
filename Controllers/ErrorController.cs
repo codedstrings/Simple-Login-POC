@@ -4,7 +4,7 @@ namespace Simple_Login_POC.Controllers
 {
     public class ErrorController : Controller
     {
-        public IActionResult Index()
+        public ActionResult Index()
         {
             return View();
         }
