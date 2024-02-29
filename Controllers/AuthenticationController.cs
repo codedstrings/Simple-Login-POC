@@ -11,7 +11,7 @@ namespace Simple_Login_POC.Controllers
             return View();
         }
         
-        public ActionResult AddUser(User user)
+        public ActionResult Register(User user)
         {
 
             //otp
@@ -28,10 +28,14 @@ namespace Simple_Login_POC.Controllers
             UserDbContext dbContext = new UserDbContext();
             dbContext.Users.Add(user); //creates query
             dbContext.SaveChanges();//executes query
- 
-           //navigate to login page
-            return View(user);
+                     
+            //navigate to login page
+            return RedirectToAction("Login");
 
+        }
+        public ActionResult Login()
+        {
+            return View();
         }
 
     }

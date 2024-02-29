@@ -18,12 +18,16 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\SMM-LP111\Desktop\c#\Moshly\Simple Login POC\Simple Login POC
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/SMM-LP111/Desktop/c\#/Moshly/Simple Login POC/Simple Login POC/Views/Authentication/AddUser.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGljYXRpb25cQWRkVXNlci5jc2h0bWw=
+[C:/Users/SMM-LP111/Desktop/c\#/Moshly/Simple Login POC/Simple Login POC/Views/Authentication/Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGljYXRpb25cRGFzaGJvYXJkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/SMM-LP111/Desktop/c\#/Moshly/Simple Login POC/Simple Login POC/Views/Authentication/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGljYXRpb25cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SMM-LP111/Desktop/c\#/Moshly/Simple Login POC/Simple Login POC/Views/Authentication/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGljYXRpb25cTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/SMM-LP111/Desktop/c\#/Moshly/Simple Login POC/Simple Login POC/Views/Home/Index.cshtml]
